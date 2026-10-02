@@ -1,0 +1,74 @@
+{
+  "snapshot_date": "2026-10-02",
+  "upstream": "https://github.com/LeySure/QuestEcho-Forever",
+  "upstream_version": "1.9.4",
+  "client": {
+    "product": "wow_classic_beta",
+    "version": "1.60.1",
+    "build": "70170",
+    "interface": 16001,
+    "project_id": 18
+  },
+  "files": {
+    "Bindings.xml": {
+      "size": 238,
+      "sha256": "179283703b997f69fdc14818c58e204886b2b1a9dda69a81d3e2dd2abfca3490"
+    },
+    "CHANGELOG.md": {
+      "size": 2066,
+      "sha256": "daf34837420e8954971c7a5dff84130d2d77888251f631f3869bb5da97a1ade0"
+    },
+    "Core.lua": {
+      "size": 227119,
+      "sha256": "60fb16021e46efd5b98f4941c55d1770c19c4735a07ecc7506648401a95c3177"
+    },
+    "GossipTitleMap.lua": {
+      "size": 1064,
+      "sha256": "a9d86e2bc23f9ea2a9e6e33f0f4f6fa5b5fc92dae58a6ac81e7fa4b96bdf71da"
+    },
+    "GossipTitleMapData.lua": {
+      "size": 1492836,
+      "sha256": "96e6aaaa9edb5f2b57287f24c82f721e46b817fc31660f57b5f90f1aef98daaf"
+    },
+    "GossipTitleMapData2.lua": {
+      "size": 58146,
+      "sha256": "c9944f254d94723eba2ab7552bd7292eaf5fa5879ae4d0a0b701e1e3ce27155a"
+    },
+    "ItemGameObject.lua": {
+      "size": 14393,
+      "sha256": "10b9176f120adeecd1fa466262a8c77f74ef0be5702867c5ac2ba314b5aafcfb"
+    },
+    "Minimap.lua": {
+      "size": 4629,
+      "sha256": "4267a9e4548abc8854ef6c1b1aab9f4b91e1458313cb5eb6a15322589f87b551"
+    },
+    "QuestEcho.toc": {
+      "size": 624,
+      "sha256": "b149c836f686fb5a8a96016a60b02b4b09d5592f103f641feb761e1806d4a103"
+    },
+    "QuestEcho112.lua": {
+      "size": 47013,
+      "sha256": "4bf85e029aba82228b6b591eeb73f8991a14792b7eb471f2012c9e7841720d0f"
+    },
+    "QuestEchoIcon.tga": {
+      "size": 16402,
+      "sha256": "5c2c239f1a7b0e65f3cbe9163eddd3ad1f27e2bb4c13d72851680bc5487f52e0"
+    },
+    "QuestEchoSilence.wav": {
+      "size": 60,
+      "sha256": "86b5f5a4a69b226cef532cb4019df8ff0c08a804fa919af5d116e6e257cd9eac"
+    },
+    "QuestTitleMap.lua": {
+      "size": 790,
+      "sha256": "58e3919f9a96e81b7844d37e9a544335face3364a9e0ecdfe18b41d87b6a934d"
+    },
+    "QuestTitleMapData.lua": {
+      "size": 188276,
+      "sha256": "a8cbc8d8def86f8473d1790d3fe2d620721d713f8745720a159095e9a8dab162"
+    },
+    "npc_race_lookups.lua": {
+      "size": 50528,
+      "sha256": "37d11a5209e15568d6fbd7ecededeecbf9e674ccc2ee01a2f550d81c9071343a"
+    }
+  }
+}
